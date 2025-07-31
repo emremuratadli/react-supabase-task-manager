@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-supabase-task-manager/static/css/main.70465edb.css",
+    "main.js": "/react-supabase-task-manager/static/js/main.9f102b41.js",
+    "index.html": "/react-supabase-task-manager/index.html",
+    "main.70465edb.css.map": "/react-supabase-task-manager/static/css/main.70465edb.css.map",
+    "main.9f102b41.js.map": "/react-supabase-task-manager/static/js/main.9f102b41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70465edb.css",
+    "static/js/main.9f102b41.js"
+  ]
+}
